@@ -1,0 +1,80 @@
+html, body {
+  height:100%;
+  background-color: #cccccc;
+} 
+
+.top {
+  height:50px;
+}
+
+.mainBox {
+  width:700px;
+  height:100%;
+  background-color:#2E334A;
+  border-radius:3%;
+}
+
+.underlineMe {
+  margin-left:70px;
+  width:80%;
+  border-bottom:medium solid #cccccc;
+}
+
+.bottom {
+  height:50px;
+}
+
+.header {
+  height:50px;
+  
+}
+
+.headerText {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-size: 30px;
+  font-family: 'Playfair Display', serif;
+  color:#8EC9C5;
+}
+
+.postsImage {
+  height:70px;
+  width:70px;
+  border-radius:50%;
+  
+}
+
+.postsDiv {
+  
+  height:30px;
+  font-size:18px;
+  /*margin-top:-20px;*/
+}
+
+.postsName {
+font-family: 'Fauna One', serif;
+
+}
+
+.postsGame {
+  font-family: 'Fauna One', serif;
+ 
+}
+
+.bigRowOn {
+  height:90px;
+  background-color:#2E334A;
+  color:#8EC9C5;
+   display: flex;
+  align-items: center;
+  
+}
+
+.bigRowOff {
+  height:90px;
+  color:#cccccc;
+   display: flex;
+  align-items: center;
+}
+
